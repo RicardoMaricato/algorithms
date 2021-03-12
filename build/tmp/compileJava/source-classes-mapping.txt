@@ -1,10 +1,10 @@
 StringTest.java
  StringTest
-LocalDateTimeTest.java
- LocalDateTimeTest
-array/SumArray.java
- array.SumArray
-array/CompareArray.java
- array.CompareArray
 array/Candle.java
  array.Candle
+array/SumArray.java
+ array.SumArray
+LocalDateTimeTest.java
+ LocalDateTimeTest
+array/CompareArray.java
+ array.CompareArray
