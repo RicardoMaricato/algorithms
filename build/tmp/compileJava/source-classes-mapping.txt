@@ -2,9 +2,9 @@ StringTest.java
  StringTest
 array/Candle.java
  array.Candle
-array/SumArray.java
- array.SumArray
-LocalDateTimeTest.java
- LocalDateTimeTest
 array/CompareArray.java
  array.CompareArray
+LocalDateTimeTest.java
+ LocalDateTimeTest
+array/SumArray.java
+ array.SumArray
