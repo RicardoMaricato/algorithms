@@ -1,4 +1,5 @@
 
+Z	java:S1066"9Replace this use of System.out or System.err by a logger.(î²Ö·ùÿÿÿÿ8ëŸ™Ã‚/
 H
 java:S1481,"&Remove this unused "j" local variable.(ƒ¦÷øÿÿÿÿ8ÚÊ‚Ã‚/
 y	java:S127,"XRefactor the code in order to not assign to this loop counter from within the loop body.(ƒ¦÷øÿÿÿÿ8ÚÊ‚Ã‚/
@@ -6,4 +7,3 @@ Z	java:S106"9Replace this use of System.out or System.err by a logger.(¢ÊâŸûÿ
 I
 java:S1128".Remove this unused import 'java.util.Scanner'.(ÒÜÅ¸úÿÿÿÿ
 X	java:S125"<This block of commented-out lines of code should be removed.(¿ÿñ²8¦ÓÔÃ‚/
-Z	java:S1066"9Replace this use of System.out or System.err by a logger.(î²Ö·ùÿÿÿÿ8ëŸ™Ã‚/

@@ -1,0 +1,11 @@
+
+Z	java:S106"9Replace this use of System.out or System.err by a logger.(´‹¹öşÿÿÿÿ8ö¾Òëƒ/
+M
+java:S1128"+Remove this unused import 'java.util.List'.(Õë±Äøÿÿÿÿ8ƒ½Ë€„/
+U	java:S106"9Replace this use of System.out or System.err by a logger.(ñˆ×8õ±Ïëƒ/
+0
+java:S1220""Move this file to a named package.
+U	java:S106"9Replace this use of System.out or System.err by a logger.(ûş®8Â²Ñëƒ/
+U	java:S106	"9Replace this use of System.out or System.err by a logger.(÷ â†8õ±Ïëƒ/
+M
+java:S1128"0Remove this unused import 'java.util.ArrayList'.(÷‰îƒ8ƒ½Ë€„/
